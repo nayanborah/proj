@@ -1,1 +1,1 @@
-## this is the Git tutorial by Nayan Borah
+## this is the Git tutorial by Nayan Borah so
